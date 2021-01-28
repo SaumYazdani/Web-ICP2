@@ -1,0 +1,22 @@
+
+#square{
+    width: 100px;
+    height: 100px;
+    length: 100 px;
+    color: black;
+    position:fixed;
+    top:0;
+    left:0;
+    padding:10px
+}
+
+#t1{
+    width: 100px;
+    height: 100px;
+    color: green;
+    position:fixed;
+    top:200px;
+    left:200px;
+    padding:10px
+}
+
