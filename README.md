@@ -1,1 +1,1 @@
-# Web-ICP2
+This repository contains all the elements for icp2. In the first part of the icp, we were asked to create a webpage that contains certain elements of html. I have made a website about deer and incorporated the necesary elements. For the second part of the icp, we were asked to edit a google page to add the google account and recently visited windows. And finally, we were asked to create a webpage that displays a 3x3 grid of squares. 
